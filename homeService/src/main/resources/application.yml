@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: home-service
+server:
+  port: 8081
